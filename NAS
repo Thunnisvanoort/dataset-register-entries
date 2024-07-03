@@ -1,0 +1,31 @@
+{
+	"@context": "http://schema.org/",
+	"@type": "Dataset",
+	"@id": "https://hdl.handle.net/10622/VLN8FD",
+	"identifier": "https://hdl.handle.net/10622/VLN8FD",
+	"name": "Paramaribo Ward Registers 1828-1847",
+	"license": "https://creativecommons.org/licenses/by/4.0/",
+	"publisher": {
+		"@type": "Organization",
+		"@id": "https://nationaalarchief.sr/onderzoeken/alle-genealogie/wijkregister/persons",
+		"name": "Nationaal Archief Suriname"
+	},
+	"description": "Since 1828, the colonial government of Paramaribo, Suriname, kept a detailed register of the inhabitants of the city. The registers have been partly preserved for the period 1828-1847. ",
+	"inLanguage": "nl-NL",
+	"creator": {
+		"@type": "Organization",
+		"@id": "https://nationaalarchief.sr/",
+		"name": "Nationaal Archief Suriname",
+		"contactPoint": {
+			"@type": "ContactPoint",
+			"name": "Thunnis van Oort"
+		}
+	},
+	"version": "1",
+	"keywords": [
+		"Suriname; population records; colonial history; slavery; urban history; person registration; religion; occupations; racial categories; citizen science"
+	],
+	"spatialCoverage": "Paramaribo, Suriname",
+	"temporalCoverage": "1828-1847",
+	"distribution": []
+}
